@@ -11,7 +11,11 @@
 ---
 
 **Tale** is a multi-agent AI conversation system with autonomous daily planning. The AI character schedules its own day — waking up, working, resting, playing — like a real person. Multi-platform support and a full-featured WebUI dashboard included.
+> ⚠️ 本项目已废弃,不再维护。
+> 新项目移步:[TaleAI](新仓库地址)
 
+旧架构快照,仅作参考。
+---
 ---
 
 ## Highlights
